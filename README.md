@@ -6,6 +6,8 @@ Bootstrap kullanilarak yapilmis basit bir sayfa
 
 ## Goruntuler
 ![onizleme](https://i.imgur.com/Pw87Awa.gif)
+[gif](https://i.imgur.com/Pw87Awa.gif)
+
 
 
 <hr>
